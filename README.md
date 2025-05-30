@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xavier Maczko</h1>
 <h3 align="center">Computer Science Student | Future Quantum Engineer</h3>
 
- ---
-
 ### 🧑‍💻 About Me
 
 I'm Xavier, a BSc Computer Science student at the University of Reading.  
