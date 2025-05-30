@@ -15,36 +15,32 @@ Currently focused on building a solid foundation in computer science and explori
 
 #### Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <br/>
-  Python
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <br/>
-  C++
+<p align="center">
+  <figure style="display: inline-block; margin: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+    <figcaption align="center">Python<br/>Versatile language</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+    <figcaption align="center">C++<br/>High performance</figcaption>
+  </figure>
 </p>
 
 #### Tools & Platforms
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <br/>
-  Linux
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <br/>
-  Git
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <br/>
-  VS Code
+<p align="center">
+  <figure style="display: inline-block; margin: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+    <figcaption align="center">Linux<br/>Operating system</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+    <figcaption align="center">Git<br/>Version control</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin: 1rem;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+    <figcaption align="center">VS Code<br/>Code editor</figcaption>
+  </figure>
 </p>
 
 ---
