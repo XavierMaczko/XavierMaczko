@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Maczko</h1>
 <h3 align="center">Computer Science Student | Future Quantum Engineer</h3>
 
----
+# ---
 
 ### 🧑‍💻 About Me
 
@@ -9,7 +9,7 @@ I'm Xavier, a BSc Computer Science student at the University of Reading.
 I’m deeply interested in quantum engineering and aim to pursue postgraduate research in the field.  
 Currently focused on building a solid foundation in computer science and exploring how quantum mechanics can reshape computing.
 
----
+# ---
 
 ### 💼 Skills
 
@@ -28,7 +28,7 @@ Currently focused on building a solid foundation in computer science and explori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 </p>
 
----
+# ---
 
 ### 📈 GitHub Stats
 
@@ -38,7 +38,7 @@ Currently focused on building a solid foundation in computer science and explori
   <img src="https://streak-stats.demolab.com?user=xaviermaczko&theme=default" alt="GitHub Streak" />
 </p>
 
----
+# ---
 
 ### 🎯 Interests
 
@@ -46,6 +46,6 @@ Currently focused on building a solid foundation in computer science and explori
 - Electrical & Optical Engineering
 - Open-source tools and Linux development
 
----
+# ---
 
 <sub align="center">This README is public domain (CC0 1.0) — feel free to copy or adapt.</sub>
