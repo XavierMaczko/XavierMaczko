@@ -9,7 +9,7 @@ I'm Xavier, a BSc Computer Science student at the University of Reading.
 I’m deeply interested in quantum engineering and aim to pursue postgraduate research in the field.  
 Currently focused on building a solid foundation in computer science and exploring how quantum mechanics can reshape computing.
 
----
+ ---
 
 ### 💼 Skills
 
@@ -36,10 +36,6 @@ Currently focused on building a solid foundation in computer science and explori
   <img src="https://github-readme-stats.vercel.app/api?username=xaviermaczko&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=xaviermaczko&theme=default" alt="GitHub Streak" />
-  <br/>
-  <a href="https://wakatime.com/@XavierMaczko">
-    <img src="https://wakatime.com/badge/user/XavierMaczko/projects.svg" alt="WakaTime Stats" />
-  </a>
 </p>
 
 ---
