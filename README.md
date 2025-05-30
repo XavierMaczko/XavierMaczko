@@ -18,13 +18,13 @@ Currently focused on building a solid foundation in computer science and explori
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <br/>
-  Python — A versatile programming language used for web, data science, automation, and more.
+  Python
 </p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <br/>
-  C++ — A powerful language commonly used for performance-critical applications like games and simulations.
+  C++
 </p>
 
 #### Tools & Platforms
@@ -32,19 +32,19 @@ Currently focused on building a solid foundation in computer science and explori
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   <br/>
-  Linux — An open-source operating system widely used in servers, development, and research.
+  Linux
 </p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <br/>
-  Git — A tool for tracking changes in code, enabling collaboration with others.
+  Git
 </p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <br/>
-  VS Code — A popular code editor used to write and manage programming projects.
+  VS Code
 </p>
 
 ---
