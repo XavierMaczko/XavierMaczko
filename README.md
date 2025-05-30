@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Xavier Maczko</h1>
+<h3 align="center">BSc Computer Science Student | Aspiring Quantum Engineer</h3>
 
-<!--
-**XavierMaczko/XavierMaczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Studying Computer Science at the University of Reading  
+🔬 Interested in quantum engineering and postgraduate research opportunities  
+🌱 Currently exploring the intersection of computing and quantum science.
+</p>
 
-Here are some ideas to get you started:
+### 🧭 Interests
+- 🧠 Quantum computing, entanglement, and QFT
+- ⚡ Electrical & Optical Engineering  
+- 🕸️ Distributed systems & computational theory  
+- 🧪 Research-driven development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xaviermaczko&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=xaviermaczko&theme=radical" />
+</p>
+
+### 📫 Visitor Counter
+![Visitors](https://komarev.com/ghpvc/?username=xaviermaczko&label=Profile%20views&color=0e75b6&style=flat)
